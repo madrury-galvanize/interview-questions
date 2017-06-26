@@ -46,8 +46,6 @@ Statistics: Things You Must Know
 In evaluating the results, Matt the amazing data scientist reasons that drivers who received the link but did not actually download the app cannot benefit, and so re-assigns them to the control group.  Please discuss this procedure with Matt.
 
 
-
-
 Kahnemans Questions
 -------------------
 
