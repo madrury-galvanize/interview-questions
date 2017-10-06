@@ -75,7 +75,12 @@ You are tasked with giving advice on how to approach both problems.  You may ass
   1. How would you detect whether a bike has disappeared?
   2. How would you decide when a bike needs to be replaced?
   3. How would you redistribute bikes that have congregated in lower elevations, and when would you take action?
-  4. How would you use this data to inform the quality of bicycles used by your company.
+
+In addition, your boss wants you to always keep the following issues in mind, as they are constantly relevant to the business.
+
+  4. How would you use this data to inform the quality of bicycles used by your company?
+  5. How would you decide the overall size of the fleet your company should employ.
+  6. How would you decide how much to charge for each 10 min ride?
 
 ## Insurance Pricing
 
