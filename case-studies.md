@@ -61,6 +61,22 @@ The Users and Books table contain demographic style data on the users and books 
 Discuss how you would develop a predictive model to help inform the library about what books are likely to go missing.  How would you deliver this data to the library?  How would you evaluate whether your solution meets the libraries needs?
 
 
+## Bike Sharing
+
+You are a data scientist a medium sized bike sharing company in a large city.  Your company distributed bicycles throughout the city, which users may checkout for short periods of time (multiples of ten minutes).
+
+After being in the market for a few months, a few problems have emerged:
+
+  1. Bikes sometimes disappeared, and need to be replaced.
+  2. Over time, bikes tend to congregate at lower elevations in the city, as they are easy to ride downhill and difficult to ride uphill.
+
+You are tasked with giving advice on how to approach both problems.  You may assume that you have gps data on trips, i.e. where the trips begin, end, and some points in the middle of a trip if it is longer.  Here are some questions:
+
+  1. How would you detect whether a bike has disappeared?
+  2. How would you decide when a bike needs to be replaced?
+  3. How would you redistribute bikes that have congregated in lower elevations, and when would you take action?
+  4. How would you use this data to inform the quality of bicycles used by your company.
+
 ## Insurance Pricing
 
 You are a data scientist at a large car insurance company working on optimizing their pricing strategy.  Customers at this company pay for six month contracts; while the contract is in effect the company agrees to pay for all auto insurance losses incurred by the customer (for both accidents where the customer was and was not at-fault).  After a customer buys a contract at a given price, that contract cannot be re-priced, the insurance coverage is locked in for six months.  After the contract expires, your company will automatically offer the customer another six month contract, possibly with another price.
@@ -71,6 +87,8 @@ Discuss what data is important to collect on the insurance customers to accompli
 
 
 ## Mailers for Churn
+
+
 
 
 ## Useful Forum Posts
